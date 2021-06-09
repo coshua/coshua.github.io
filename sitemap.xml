@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://coshua.github.io/post/</loc>
+    <loc>http://jutopia.net/post/</loc>
     <lastmod>2021-06-08T16:47:40-07:00</lastmod>
   </url><url>
-    <loc>https://coshua.github.io/post/test/</loc>
+    <loc>http://jutopia.net/post/test/</loc>
     <lastmod>2021-06-08T16:47:40-07:00</lastmod>
   </url><url>
-    <loc>https://coshua.github.io/</loc>
+    <loc>http://jutopia.net/</loc>
     <lastmod>2021-06-08T16:47:40-07:00</lastmod>
   </url><url>
-    <loc>https://coshua.github.io/tags/</loc>
+    <loc>http://jutopia.net/tags/</loc>
   </url>
 </urlset>
