@@ -10,7 +10,7 @@ first_name: Jude
 last_name: Kim
 
 # Status emoji
-status: Summer Intern
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
