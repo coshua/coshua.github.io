@@ -68,10 +68,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Software Engineer Co-op
+    company_name: Cohere Health
     company_url: ''
-    company_logo: ''
+    company_logo: cohere_health
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
