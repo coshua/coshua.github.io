@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: "Home"
 date: 2023-10-24
 type: landing
 
@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: View Résumé
         url: uploads/resume.pdf
     design:
       banner:
@@ -24,25 +24,25 @@ sections:
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: "text-align: justify; font-size: 0.8em;"
   - block: experience
     content:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: "January 2006"
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      username: admin
+  # - block: skills
+  #   content:
+  #     title: Skills & Hobbies
+  #     username: admin
   - block: awards
     content:
       title: Awards
       username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+  # - block: languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---
